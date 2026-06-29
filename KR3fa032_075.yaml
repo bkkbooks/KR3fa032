@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa032/tls/v1/juan/75
+seq: 75
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第八圖第九圖第十圖右三圖說中未及案五星條云五星合留順逆算變有二類由星輪在地輪內外不同之故各有圖詳之然則此三圖者蓋明午星合留順逆在地輪內外也擬為三圖一明地輪在星輪內一明地輪在星輪外一總明在內在外所以有合留順逆之故附于左方竝補說以詳之附圖一
+  hash: sha256:849742e5c07061cd676c7554223a6e30cc8a2d879089a7465566eaf8d6882e70
+metadata:
+  title: 地球圖說/補圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa032.xml
+hash: sha256:916f37e4673cb01f21fb860fa6fa029f32c34113344a95330ff136cd5e17709f

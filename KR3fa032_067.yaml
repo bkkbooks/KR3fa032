@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa032/tls/v1/juan/67
+seq: 67
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南陽曜啚第一圖
+  hash: sha256:6c43a50762ca53cf1a909438dbc4ff11831c4c2dd2e0cbdc348ae025fb5ddbc9
+metadata:
+  title: 地球圖說/補圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa032.xml
+hash: sha256:831714fd1ca6bf65007db360ca6006b5a42a52f3ce20b6b70db33712b99bc9ed

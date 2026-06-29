@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa032/tls/v1/juan/73
+seq: 73
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第六圖第七圖
+  hash: sha256:910a45219e0ef0b266f8684b035f312941f207d5fa61aaf8b0f02d45f4fcf70b
+metadata:
+  title: 地球圖說/補圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa032.xml
+hash: sha256:f701f33f0c5fde934b4de2371ca96f91b3b546ed20b9a2a880978d4cd62570e8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa032/tls/v1/juan/85
+seq: 85
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第十六圖第十七圖
+  hash: sha256:68a69499b9bff4a2ea3efb187a4cb8aea5f289868fb0c9f43fd3f5753b5655e3
+metadata:
+  title: 地球圖說/補圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa032.xml
+hash: sha256:f3419e10b28f012334a7eb20d735dcb0ec390669c142284121b7525ab95e01f5

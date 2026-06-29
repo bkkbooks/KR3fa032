@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa032/tls/v1/juan/65
+seq: 65
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右坤與全圖據西域圖志地體圖補繪圖志以兩極為圈界直省及新疆回部地名一一詳載與友仁所稱正合今摘友仁所舉諸地名標之餘以幅狹不及詳録亞細亞作亞西亞伯西兒作伯西爾伯露作百露字異音近譯有不同也惟友仁所舉同河泥碌河銀河吉多國等地地體圖不載無由知其處所姑闕之以俟考
+  hash: sha256:eeaf75a985ef4906e5071013fe400b21fbba0211bfe505c86e77c103d0eb44ed
+metadata:
+  title: 地球圖說/補圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa032.xml
+hash: sha256:fef5819ed5d92d26abc0b3e65958f5e427a3fb6d425d539cb03cd6ee5c89ecfc

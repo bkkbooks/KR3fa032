@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa032/tls/v1/juan/63
+seq: 63
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 下圖
+  hash: sha256:9c9e991e2be92b60d582de916fedb5de374ed6632936a01432264fe4fdace080
+metadata:
+  title: 地球圖說/補圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa032.xml
+hash: sha256:fa1e548aaeb64a9bf2b5b8089206508ced9e0d9f5cc0c38d181d959869bab762

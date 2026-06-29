@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa032/tls/v1/juan/79
+seq: 79
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 補說曰乾為日所在外大圈為恆星天假令以坤為地所在則內小圈為金水本輪假令以坤為土木火星體所在則內小圈為地本輪自乾視甲乙丙丁戊已庚辛皆見其順行自坤視內小圈在恆星天則甲為順合戊為退合丙為前留庚為後留庚辛甲乙丙為順丙丁戊已庚為退地在內小圈運行一周其視坤載恆星天亦甲戌為合庚丙為留由庚歷辛甲乙至丙為順行由丙歷丁戊已至庚為逆行第十一圖
+  hash: sha256:787d6e33d261f50c035bd6e2d5664d00f0671adae8f3e2937d5ffed85c382296
+metadata:
+  title: 地球圖說/補圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa032.xml
+hash: sha256:f338f95639fbf00d16ad761c67afe677b2a80852531cec0fb0ed67409bc05ba8

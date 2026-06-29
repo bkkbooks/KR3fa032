@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa032/tls/v1/juan/33
+seq: 33
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陽併游曜比例表
+  hash: sha256:03cfecbe842aebf77842aeab0a0f0710230a7791df3e391748f0832a37d010a9
+metadata:
+  title: 地球圖說/補圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa032.xml
+hash: sha256:c0484d4572d3fbd0cf81d8ade8e3b26fad2dfa23af6d2184d36737141d8e506f

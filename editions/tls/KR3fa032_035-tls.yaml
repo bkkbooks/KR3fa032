@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa032/tls/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 論春夏秋冬歌白尼論春夏秋冬四季之輪流亦由地運動而生如十五圖子卯午酉撱圓象地球一年所循之本輪斯輪相應于渾天之黃道地兩極之軸斜行于黃道之軸而地赤道斜行于本輪各二十三度半是為黃赤距緯地循本輪其軸恒斜而其極恒向天之兩極今設地在本輪之午點則地球之與太陽應者在赤道北二十三度半故此處見太陽于天頂此時地旋轉于本心則見太陽于夏至圈繞地左行北方之畫長南方之畫短夏至後第八日地在本輪之乙點為
+  hash: sha256:d259faa2ee5c1ab30d6969dc2104c3aaf9221dd9bacb98a15216652757dd8260
+metadata:
+  title: 地球圖說/補圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa032.xml
+hash: sha256:511be937c11ebe8f20743dcf48bfdfcf1507f0cb9cc1d41f2900180fe3a9bc6d
