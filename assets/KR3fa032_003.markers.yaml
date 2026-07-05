@@ -5,7 +5,6 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fa032_tls_001-p2.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1}
-  - {type: substitution, offset: 3, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 5, content: '', id: KR3fa032_tls_001-p2.s2.1}
   - {type: line-break, offset: 5, content: '', id: KX_2}
   - {type: 'tls:seg-start', offset: 26, content: '', id: KR3fa032_tls_001-p2.s2.2, seg_type: comm, member_ids: [KR3fa032_tls_001-p2.s2.2]}
@@ -26,13 +25,10 @@ markers:
   - {type: line-break, offset: 130, content: '', id: KX_8}
   - {type: 'tls:seg', offset: 150, content: '', id: KR3fa032_tls_001-p2.s9}
   - {type: line-break, offset: 150, content: '', id: KX_9}
-  - {type: substitution, offset: 152, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 170, content: '', id: KR3fa032_tls_001-p2.s10}
   - {type: line-break, offset: 170, content: '', id: KX_10}
-  - {type: substitution, offset: 179, original: 揜, replacement: 掩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3495}}
   - {type: 'tls:seg', offset: 190, content: '', id: KR3fa032_tls_001-p2.s12}
   - {type: line-break, offset: 190, content: '', id: KX_12}
-  - {type: substitution, offset: 204, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 210, content: '', id: KR3fa032_tls_001-p2.s13}
   - {type: line-break, offset: 210, content: '', id: KX_13}
   - {type: 'tls:seg', offset: 230, content: '', id: KR3fa032_tls_001-p2.s14}
@@ -41,19 +37,15 @@ markers:
   - {type: line-break, offset: 250, content: '', id: KX_15}
   - {type: 'tls:seg', offset: 270, content: '', id: KR3fa032_tls_001-p2.s16}
   - {type: line-break, offset: 270, content: '', id: KX_16}
-  - {type: substitution, offset: 282, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 290, content: '', id: KR3fa032_tls_001-p2.s17}
   - {type: line-break, offset: 290, content: '', id: KX_17}
   - {type: 'tls:seg', offset: 310, content: '', id: KR3fa032_tls_001-p2.s18}
   - {type: line-break, offset: 310, content: '', id: KX_18}
   - {type: 'tls:seg', offset: 311, content: '', id: KR3fa032_tls_001-p2.s19}
   - {type: line-break, offset: 311, content: '', id: KX_19}
-  - {type: substitution, offset: 319, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 331, content: '', id: KR3fa032_tls_001-p2.s20}
   - {type: line-break, offset: 331, content: '', id: KX_20}
-  - {type: substitution, offset: 338, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
-  - {type: substitution, offset: 350, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3192}}
   - {type: 'tls:seg', offset: 351, content: '', id: KR3fa032_tls_001-p2.s21}
   - {type: line-break, offset: 351, content: '', id: KX_21}
   back: []
-hash: sha256:1a1a9ddd20bb18f7a544e92cf930370149a6af2b3667381f61c2f490cfb1ec98
+hash: sha256:4578367be7514ca7d94e186e19dae8272970ffd06089681bf4e277fcfb549666
