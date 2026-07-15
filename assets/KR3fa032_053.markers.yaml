@@ -7,6 +7,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup25, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 20, content: '', id: KR3fa032_tls_001-p27.s2}
   - {type: line-break, offset: 20, content: '', id: KX_2_dup24, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: substitution, offset: 26, original: 龄, replacement: 齡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17583}}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fa032_tls_001-p27.s3}
   - {type: line-break, offset: 40, content: '', id: KX_3_dup24, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 60, content: '', id: KR3fa032_tls_001-p27.s4}
@@ -21,6 +22,7 @@ markers:
   - {type: line-break, offset: 124, content: '', id: KX_8_dup24, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 144, content: '', id: KR3fa032_tls_001-p27.s9}
   - {type: line-break, offset: 144, content: '', id: KX_9_dup24, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: substitution, offset: 160, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20663}}
   - {type: 'tls:seg', offset: 164, content: '', id: KR3fa032_tls_001-p27.s10}
   - {type: line-break, offset: 164, content: '', id: KX_10_dup24, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: 'tls:seg', offset: 184, content: '', id: KR3fa032_tls_001-p27.s12}
@@ -44,4 +46,4 @@ markers:
   - {type: 'tls:seg', offset: 344, content: '', id: KR3fa032_tls_001-p27.s21}
   - {type: line-break, offset: 344, content: '', id: KX_21_dup23, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:36c58a3f7204612d295e9fc7d06bbba066118fbea74dd69f74f5eb70800216e3
+hash: sha256:84c69a75c82d3d3e9014fdf5819ce9d3e129edac4b0fbd7f87ffdd15038deef7
